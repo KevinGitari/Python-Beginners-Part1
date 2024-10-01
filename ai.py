@@ -22,6 +22,8 @@
 #(a) Numbers
 #(b)String
 #(c)Booleans
+#(d)Dictionary(object in js)
+#(e)Lists(Array in js)
 
 #birth_year = input("Enter your birth year: ")
 
