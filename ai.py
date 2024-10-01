@@ -116,7 +116,6 @@
 #print("Okr") #prints regardless of the condition (not part of the "if statement" due to the lack of indentation)
 
 # While Loops 
- # bad approach
   #print(1)
   #print(2)
   #print(3)
