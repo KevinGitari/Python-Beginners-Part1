@@ -113,7 +113,7 @@
 
 #elif temperature > 20: #else if [20, 30]
    # print("It's a nice day")
-#print("Okr") #prints regardless of the condition (not part of the if statement due to the lack of indentation)
+#print("Okr") #prints regardless of the condition (not part of the "if statement" due to the lack of indentation)
 
 # While Loops 
  # bad approach
